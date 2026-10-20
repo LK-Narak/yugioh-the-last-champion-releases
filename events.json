@@ -7,10 +7,10 @@
       "active": true,
       "multiplier": 2.0,
       "duration_hours": 2.0,
-      "start_time": 1792422599,
-      "end_time": 1792429799,
+      "start_time": 1792456197,
+      "end_time": 1792463397,
       "icon_texture": "res://assets/star-2x.png"
     }
   },
-  "last_updated": 1792422599
+  "last_updated": 1792456197
 }
