@@ -4,13 +4,26 @@
       "id": "double_starships",
       "name": "Estrelas em Dobro",
       "description": "Ganhe o dobro de Star Chips em todas as vitórias nos duelos!",
-      "active": true,
+      "active": false,
       "multiplier": 2.0,
       "duration_hours": 2.0,
-      "start_time": 1792502282,
-      "end_time": 1792509482,
+      "start_time": 0,
+      "end_time": 0,
       "icon_texture": "res://assets/star-2x.png"
+    },
+    "gift": {
+      "id": "gift",
+      "gift_id": "gift_20261020_01",
+      "name": "Presente Especial (Gift)",
+      "description": "Presente de Star Chips para todos os duelistas!",
+      "message": "Você recebeu 200 starships de presente!",
+      "active": true,
+      "starships": 200,
+      "icon_texture": "res://assets/gift.png",
+      "start_time": 1792513122,
+      "duration_hours": 2.0,
+      "end_time": 1792520322
     }
   },
-  "last_updated": 1792502282
+  "last_updated": 1792513122
 }
