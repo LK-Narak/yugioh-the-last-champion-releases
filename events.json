@@ -20,10 +20,10 @@
       "active": true,
       "starships": 200,
       "icon_texture": "res://assets/gift.png",
-      "start_time": 1792513122,
+      "start_time": 1792513190,
       "duration_hours": 2.0,
       "end_time": 1792520322
     }
   },
-  "last_updated": 1792513122
+  "last_updated": 1792513190
 }
