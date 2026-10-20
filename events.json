@@ -4,11 +4,11 @@
       "id": "double_starships",
       "name": "Estrelas em Dobro",
       "description": "Ganhe o dobro de Star Chips em todas as vitórias nos duelos!",
-      "active": false,
+      "active": true,
       "multiplier": 2.0,
       "duration_hours": 2.0,
-      "start_time": 0,
-      "end_time": 0,
+      "start_time": 1792517560,
+      "end_time": 1792524760,
       "icon_texture": "res://assets/star-2x.png"
     },
     "gift": {
@@ -25,5 +25,5 @@
       "end_time": 1792520322
     }
   },
-  "last_updated": 1792513190
+  "last_updated": 1792517560
 }
