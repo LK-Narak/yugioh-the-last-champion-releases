@@ -7,8 +7,8 @@
       "active": true,
       "multiplier": 2.0,
       "duration_hours": 2.0,
-      "start_time": 1792517560,
-      "end_time": 1792524760,
+      "start_time": 1792544134,
+      "end_time": 1792551334,
       "icon_texture": "res://assets/star-2x.png"
     },
     "gift": {
@@ -25,5 +25,5 @@
       "end_time": 1792520322
     }
   },
-  "last_updated": 1792517560
+  "last_updated": 1792544134
 }
