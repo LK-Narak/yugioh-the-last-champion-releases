@@ -13,17 +13,17 @@
     },
     "gift": {
       "id": "gift",
-      "gift_id": "gift_20261020_01",
+      "gift_id": "gift_1792627554",
       "name": "Presente Especial (Gift)",
       "description": "Presente de Star Chips para todos os duelistas!",
       "message": "Você recebeu 200 starships de presente!",
       "active": true,
       "starships": 200,
       "icon_texture": "res://assets/gift.png",
-      "start_time": 1792513190,
+      "start_time": 1792627554,
       "duration_hours": 2.0,
       "end_time": 1792520322
     }
   },
-  "last_updated": 1792626981
+  "last_updated": 1792627554
 }
