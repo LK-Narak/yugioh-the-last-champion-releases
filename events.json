@@ -25,6 +25,20 @@
       "end_time": 1792520322
     }
   },
-  "last_updated": 1792770675,
-  "direct_gifts": []
+  "last_updated": 1792771458,
+  "direct_gifts": [
+    {
+      "gift_id": "dgift_1792771458_TLC_PC_95F4_D3C4",
+      "target_code": "TLC-PC-95F4-D3C4",
+      "target_name": "Marik",
+      "active": true,
+      "starships": 100,
+      "coins": 100,
+      "vip_tickets": 1,
+      "cards": [],
+      "message": "Teste de nova função!",
+      "created_at": 1792771458,
+      "created_at_str": "23/10/2026 13:04:18"
+    }
+  ]
 }
