@@ -25,8 +25,21 @@
       "end_time": 1792520322
     }
   },
-  "last_updated": 1792786254,
+  "last_updated": 1792841884,
   "direct_gifts": [
+    {
+      "gift_id": "dgift_1792841884_TLC_AND_6244_16DB",
+      "target_code": "TLC-AND-6244-16DB",
+      "target_name": "LK-Master",
+      "active": true,
+      "starships": 50,
+      "coins": 100,
+      "vip_tickets": 0,
+      "cards": [],
+      "message": "",
+      "created_at": 1792841884,
+      "created_at_str": "24/10/2026 08:38:04"
+    },
     {
       "gift_id": "dgift_1792786254_TLC_PC_261D_9EAD",
       "target_code": "TLC-PC-261D-9EAD",
