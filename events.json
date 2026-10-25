@@ -7,8 +7,8 @@
       "active": true,
       "multiplier": 2.0,
       "duration_hours": 2.0,
-      "start_time": 1792842008,
-      "end_time": 1792849208,
+      "start_time": 1792944860,
+      "end_time": 1792952060,
       "icon_texture": "res://assets/star-2x.png"
     },
     "gift": {
@@ -25,7 +25,7 @@
       "end_time": 1792520322
     }
   },
-  "last_updated": 1792842008,
+  "last_updated": 1792944860,
   "direct_gifts": [
     {
       "gift_id": "dgift_1792841884_TLC_AND_6244_16DB",
