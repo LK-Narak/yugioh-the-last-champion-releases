@@ -1,7 +1,7 @@
 {
-  "notes": "Notas da atualização Beta 1.2.5\n\n⚔️ Correção Tática da IA (Invocação ofensiva com equipamentos previstos e reposicionamento pós-buff)\n🗓️ Agendamento do Evento Boss (Joey Wheeler desativado automaticamente às terças-feiras)\n🛡️ Estabilidade Geral no PC e Android",
+  "notes": "⚔️ **Yu-Gi-Oh! The Last Champion v1.2.6**\n\n🦊 **Novo Efeito: Nine-Tailed Fox**\n- Quando destruído, se o oponente tiver uma Carta de Armadilha no campo, ela é destruída com animação e efeito sonoro.\n\n🏆 **Ajuste nos Turnos de Ranking dos Duelos**\n- Rank S: até 3 turnos\n- Rank A: até 5 turnos\n- Rank B: até 7 turnos\n- Rank C: até 10 turnos\n- Rank D: 11 turnos em diante\n\n🧩 **Sistema de Fragmentos para Cartas Épicas**\n- Cartas Épicas repetidas agora possuem 10% de chance de gerar 1 Fragmento Raro.\n\n⚔️ **Correções de Efeitos e Regras**\n- Correção na armadilha Shield & Sword afetando corretamente monstros com modificadores dinâmicos como Dark Flare Knight.\n\n🛡️ **Estabilidade & Correção de Fechamentos (Crashes)**\n- Desativação da extensão nativa legada Effekseer para compatibilidade com o Godot 4.6.1, eliminando fechamentos espontâneos do jogo.",
   "whatsapp": "https://wa.me/5585991584065?text=Ol%C3%A1%2C%20gostaria%20de%20comprar%20o%20vip%20do%20The%20Last%20Champion",
   "discord": "https://discord.gg/fAk98uZU32",
   "youtube": "https://www.youtube.com/@lk-gamer-dev",
-  "version": "1.2.5"
+  "version": "1.2.6"
 }
