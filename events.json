@@ -6,9 +6,9 @@
       "description": "Ganhe o dobro de Star Chips em todas as vitórias nos duelos!",
       "active": true,
       "multiplier": 2.0,
-      "duration_hours": 2.0,
-      "start_time": 1793379467,
-      "end_time": 1793386667,
+      "duration_hours": 24.0,
+      "start_time": 1794112723,
+      "end_time": 1794199123,
       "icon_texture": "res://assets/star-2x.png"
     },
     "gift": {
@@ -25,7 +25,7 @@
       "end_time": 1792520322
     }
   },
-  "last_updated": 1793379467,
+  "last_updated": 1794112723,
   "direct_gifts": [
     {
       "gift_id": "dgift_1792841884_TLC_AND_6244_16DB",
