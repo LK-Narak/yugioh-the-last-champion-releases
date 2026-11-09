@@ -1,7 +1,7 @@
 {
-  "notes": "⚔️ **Yu-Gi-Oh! The Last Champion v1.3.2 (Hotfix)**\n\n🚨 **Correção Crítica no Campo de Duelo:**\n- Corrigido erro de escopo de identificador em `dueling_field.gd` que causava falha no carregamento do script do campo de pedra (`dueling_field_pedra.gd`), deixando a cena de duelo estática ao iniciar.\n- Restaurada a referência correta do nó de texto de LP (`label`) nas interpolações de pontos de vida.\n- Blindagem com timeout de segurança em `wait_for_lp_animation` para impedir que o duelo congele aguardando animações de LP.\n- Corrigida a vinculação do tween de rotação/brilho para o nó alvo (`target_card`).",
+  "notes": "⚔️ **Yu-Gi-Oh! The Last Champion v1.3.5**\n\n⚡ **Otimização Extrema de Performance:**\n- **Carregamento Instantâneo de Deck:** Implementado carregamento sob demanda (*lazy loading*) para as artes das cartas, eliminando o congelamento/lentidão ao transicionar para a tela de Edição de Deck antes do duelo.\n- Preservação inteligente do banco de dados em memória, tornando a navegação entre menus e duelos muito mais rápida no Android e PC.\n\n🎯 **Ajustes de Drops e Eventos:**\n- **Drop Exclusivo do Jesse Anderson:** Corrigido drop exclusivo para o **Rainbow Dragon** (4000 ATK) no Rank S (2% de chance).\n- **Taxas de Magias, Armadilhas e Equipamentos:** Atualizadas para 7% no Rank S e 6% no Rank A (máximo de 1 por duelo).\n\n🛡️ **Correções de Estabilidade:**\n- **Blindagem no Combate:** Prevenido erro de instância liberada (*freed instance*) ao resolver efeitos de armadilhas reativas em combate.\n- Atualização do instalador Android (`versionCode 156`), resolvendo o aviso de pacote inválido.",
   "whatsapp": "https://wa.me/5585991584065?text=Ol%C3%A1%2C%20gostaria%20de%20comprar%20o%20vip%20do%20The%20Last%20Champion",
   "discord": "https://discord.gg/fAk98uZU32",
   "youtube": "https://www.youtube.com/@lk-gamer-dev",
-  "version": "1.3.2"
+  "version": "1.3.5"
 }
